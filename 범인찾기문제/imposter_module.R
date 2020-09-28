@@ -1,4 +1,5 @@
 rm(list=ls())
+
 # 범죄현장 데이터 함수화
 data = function(){
   df1 = data.frame(site=c(1:10),
@@ -34,8 +35,7 @@ ed = function(df1_location_mat, df2_location_mat){
   return(dis)
 }
 
-## 과제2
-
+## imposter 찾기
 imposter = function(df2, dis){
   
   impost = matrix(rep(df2$col3,times=10), 10,3, byrow=T) # 전과횟수 행렬화
