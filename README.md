@@ -6,6 +6,7 @@
 ### 미분과 적분
 
 ### 이상감지 기법
+- #### Hotteling's T-square
 - #### k-means Data Description(초기버전?)
 - #### AutoEncoder
 
