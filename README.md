@@ -9,7 +9,7 @@
 - #### Hotteling's T-square
 - #### k-means Data Description(초기버전?)
 - #### AutoEncoder
-- #### residusal based Anomaly Detection
+- #### residusal based Anomaly Detection(LinearRegression Model Based)
 
 ### 최적화
 - #### 뉴턴랩슨법
