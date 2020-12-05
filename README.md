@@ -7,6 +7,8 @@
 
 ### 이상감지 기법
 #### k-means Data Description(초기버전?)
+#### Auto-encoder
+
 ### 최적화
 #### 뉴턴랩슨법
 #### 할선법
