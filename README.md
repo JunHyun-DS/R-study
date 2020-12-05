@@ -6,9 +6,9 @@
 ### 미분과 적분
 
 ### 이상감지 기법
-#### k-means Data Description(초기버전?)
-#### AutoEncoder
+- #### k-means Data Description(초기버전?)
+- #### AutoEncoder
 
 ### 최적화
-#### 뉴턴랩슨법
-#### 할선법
+- #### 뉴턴랩슨법
+- #### 할선법
