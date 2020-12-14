@@ -23,7 +23,9 @@
 - #### Hotteling's T-square
 - #### k-means Data Description(초기버전)
 - #### Residusal Based Anomaly Detection with Linear Regression Model
+- #### PCDD (PCA기반의 Anomaly Detection)
 - #### Reconstruction Error Based Anomaly Detection with AutoEncoder
+
 
 
 ### 최적화
