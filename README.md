@@ -13,6 +13,7 @@
 ### 미분과 적분
 
 ### 선형대수
+- #### Hatmatrix (LinearRegression Model)
 - #### Jacobian matrix
 - #### Hessian matrix
 
