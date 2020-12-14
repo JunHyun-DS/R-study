@@ -9,19 +9,19 @@
 - #### 카이자승분포
 - #### F분포
 
-
+$nbsp;
 ### 미분과 적분
-
+$nbsp;
 
 ### 선형대수
-
+$nbsp;
 
 ### 이상감지 기법
 - #### Hotteling's T-square
 - #### k-means Data Description(초기버전)
 - #### Residusal Based Anomaly Detection with Linear Regression Model
 - #### Reconstruction Error Based Anomaly Detection with AutoEncoder
-
+$nbsp;
 
 ### 최적화
 - #### 뉴턴랩슨법
