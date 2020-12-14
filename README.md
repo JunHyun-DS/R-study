@@ -13,6 +13,8 @@
 ### 미분과 적분
 
 ### 선형대수
+- #### Jacobian matrix
+- #### Hessian matrix
 
 ### 예측모델
 - #### 선형회귀 분석
