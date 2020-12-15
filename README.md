@@ -23,7 +23,7 @@
 ### 이상감지 기법
 - #### Hotteling's T-square
 - #### k-means Data Description(초기버전)
-- #### Residusal Based Anomaly Detection with Linear Regression Model
+- #### MSET Regression using Hatmatrix (LinearRegression)
 - #### PCDD (PCA기반의 Anomaly Detection)
 - #### Reconstruction Error Based Anomaly Detection with AutoEncoder
 
