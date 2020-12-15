@@ -27,7 +27,7 @@
 - #### PCDD (PCA기반의 Anomaly Detection)
 - #### Reconstruction Error Based Anomaly Detection with AutoEncoder
 
-### 수리최적화
+### 수치최적화
 - #### 뉴턴랩슨법
 - #### 할선법
 - #### 경사하강법
