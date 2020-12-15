@@ -16,6 +16,7 @@
 - #### Hatmatrix (LinearRegression Model)
 - #### Jacobian matrix
 - #### Hessian matrix
+- #### eigenvector, eigenvalue
 
 ### 예측모델
 - #### 선형회귀 분석
@@ -26,8 +27,6 @@
 - #### Residusal Based Anomaly Detection with Linear Regression Model
 - #### PCDD (PCA기반의 Anomaly Detection)
 - #### Reconstruction Error Based Anomaly Detection with AutoEncoder
-
-
 
 ### 최적화
 - #### 뉴턴랩슨법
