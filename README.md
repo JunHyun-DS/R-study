@@ -16,7 +16,7 @@
 - #### Hatmatrix (LinearRegression Model)
 - #### Jacobian matrix
 - #### Hessian matrix
-- #### eigenvector, eigenvalue
+- #### Eigenvalue & Eigenvector
 
 ### 예측모델
 - #### 선형회귀 분석
